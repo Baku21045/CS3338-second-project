@@ -1,0 +1,110 @@
+commit 124394fb4b95d05fbfa5440022b74f4dc3d0768e
+Merge: 36b94b8 b274103
+Author: Miguel Gallardo <mgallardogaribay@gmail.com>
+Date:   Wed Sep 4 15:09:12 2024 -0700
+
+    Merge pull request #3 from Baku21045/feature-about-me
+    
+    Feature about me
+
+commit b2741038a8be750d6019d46a2262f235f88a92d1
+Merge: 6ec94c0 36b94b8
+Author: Miguel Gallardo <mgallardogaribay@gmail.com>
+Date:   Wed Sep 4 15:08:57 2024 -0700
+
+    Merge branch 'main' into feature-about-me
+
+commit 6ec94c0e64d5f3e32b907752d15871b817a758d1
+Author: Miguel Gallardo <mgallardogaribay@gmail.com>
+Date:   Wed Sep 4 14:53:04 2024 -0700
+
+    Update index.html
+    
+    I filled out the information of the file.
+
+commit 005692bea56525896e5d143a5184d74eff7dc1ed
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Tue Sep 3 20:32:19 2024 -0700
+
+    Deleted Color About Me
+    
+    This category is not needed.
+
+commit 53c064b2416ee48889b4b837fea7f88e75e0613a
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Tue Sep 3 20:24:43 2024 -0700
+
+    Adding Feature Stating Favorite Color
+    
+    Added a category in the page to list favorite color.
+
+commit 36b94b8238d7ef31c7370c672080c0f6d827c720
+Merge: fce8f0c aef0305
+Author: Miguel Gallardo <mgallardogaribay@gmail.com>
+Date:   Mon Sep 2 23:13:48 2024 -0700
+
+    Merge branch 'index-fix'
+
+commit aef0305c0b18ffe6f3f733c987b3f369d8d16f4f
+Author: Miguel Gallardo <mgallardogaribay@gmail.com>
+Date:   Mon Sep 2 23:10:33 2024 -0700
+
+    This contains my favorite game
+
+commit fce8f0c126e0206fc85e9fd1240d6dd353851b54
+Author: Miguel Gallardo <mgallardogaribay@gmail.com>
+Date:   Mon Sep 2 23:08:56 2024 -0700
+
+    This contains my favorite food
+
+commit 2deaf399c151addb9497b7852079074fd85f6591
+Author: Miguel Gallardo <mgallardogaribay@gmail.com>
+Date:   Mon Sep 2 23:07:44 2024 -0700
+
+    This contains my favorite food
+
+commit 815ac319120c6d6b840d9d5e891a4de1fa082856
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Mon Sep 2 20:25:36 2024 -0700
+
+    Complete Revamp of index.html
+    
+    Completed a css style list giving a better design to the header, and information on the page.
+    
+    Created a header to clarify when
+    
+    Created a streamline format to deliver personalized information on the about me page.
+
+commit 8e692f7424d9bd26b7d67f55d0fcbef958dfa6ee
+Merge: cb82bbf 02ab3d1
+Author: Miguel Gallardo <mgallardogaribay@gmail.com>
+Date:   Mon Sep 2 14:24:27 2024 -0700
+
+    Merge branch 'main' of https://github.com/Baku21045/CS3338-second-project
+
+commit cb82bbf47f04710d6f7a93d7f17bbf623299293c
+Author: Miguel Gallardo <mgallardogaribay@gmail.com>
+Date:   Mon Sep 2 14:21:39 2024 -0700
+
+    This is my README
+
+commit 02ab3d1b59378af77df2fe1da860898f711ae271
+Merge: 1d2bfc0 cc19add
+Author: Miguel Gallardo <mgallardogaribay@gmail.com>
+Date:   Mon Sep 2 14:12:19 2024 -0700
+
+    Merge pull request #1 from Baku21045/info-fill
+    
+    This should've changed
+
+commit cc19addd5f10669b5520fecd76881e00fda64929
+Author: Miguel Gallardo <mgallardogaribay@gmail.com>
+Date:   Mon Sep 2 00:16:03 2024 -0700
+
+    This should've changed
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
